@@ -1,0 +1,5 @@
+myFolder/mySubFolder1/mySubFolder2/file1.pdf
+myFolder/mySubFolder1/mySubFolder2/file2.pdf
+myFolder/mySubFolder1/mySubFolder2/file3.pdf
+myFolder/mySubFolder1/mySubFolder2/file4.pdf
+myFolder/mySubFolder1/mySubFolder2/file5.pdf
