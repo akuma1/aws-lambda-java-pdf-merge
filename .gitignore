@@ -9,6 +9,7 @@
 /.settings
 /.sonar-ide.properties
 /atlassian-ide-plugin.xml
+/dependency-reduced-pom.xml
 /.ignore
 /**/overlays
 /**/target/
